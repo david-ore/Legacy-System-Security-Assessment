@@ -7,7 +7,13 @@
 
 * Through this repository, readers will gain an introduction to identifying common organizational threats, understanding their possible causes and effects, implementing appropriate mitigation and response strategies, and supporting recovery after a cybersecurity incident.
 
-## Objectives
+## Objectives: 
+- Identify
+- Analyze
+- Evaluate
+- Recommend
+- Operate
+- Document
 
 ## Scenario
 
