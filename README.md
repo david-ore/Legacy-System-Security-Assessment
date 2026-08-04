@@ -2,10 +2,10 @@
 
 ## Overview: 
 * The study shows a simulated breach and explains the following: 
-# What was observed 
-# What makes it a threat
-# How to measure the threats and respond quickly 
-# Possible actions to take after dealing with the threat. 
+- What was observed 
+- What makes it a threat
+- How to measure the threats and respond quickly 
+- Possible actions to take after dealing with the threat. 
 
 It covers the step by step guide on basic threat analysis and lists and explains the duties of the threat response team in any given organization. 
 
