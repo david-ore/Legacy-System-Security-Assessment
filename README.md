@@ -1,7 +1,7 @@
 # Threat Analysis Case Study
 
 ## Overview: 
-* The study shows a simulated breach and explains the following: 
+The study shows a simulated breach and explains the following: 
 - What was observed 
 - What makes it a threat
 - How to measure the threats and respond quickly 
