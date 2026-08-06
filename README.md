@@ -15,6 +15,8 @@
 - Document analysis and give report on engagement with the threat(s)
 
 ## Scenario
+* Apex Healthcare Solutions initiated a security investigation after its IT team observed unusual network activity, repeated failed login attempts, and intermittent service disruptions across its legacy systems. Although no security breach had been confirmed, management recognized that the organization's outdated infrastructure could expose sensitive patient information and disrupt critical healthcare services if left unaddressed.
+- As part of the investigation, a comprehensive vulnerability assessment was conducted on the Kioptrix and Metasploitable 2 systems. Follow-up system checks were performed to identify vulnerabilities, evaluate their potential business impact, and recommend appropriate technical and administrative controls, supported by GRC policies, to strengthen the organization's overall cybersecurity posture
 
 ## Skills Demonstrated
 
