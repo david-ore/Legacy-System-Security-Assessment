@@ -19,7 +19,15 @@
 - As part of the investigation, a comprehensive vulnerability assessment was conducted on the Kioptrix and Metasploitable 2 systems. Follow-up system checks were performed to identify vulnerabilities, evaluate their potential business impact, and recommend appropriate technical and administrative controls, supported by GRC policies, to strengthen the organization's overall cybersecurity posture
 
 ## Skills Demonstrated
-
+* Vulnerability Assessment and identification
+* Risk Assessment
+* Threat Analysis
+* Security Control Implementation
+* Security Hardening
+* Authentication and Access Control
+* Network Security Assessment
+* Database Security Assessment
+* Security Configuration Review
 ## Status
 
 🚧 In Progress
