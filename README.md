@@ -28,6 +28,14 @@
 * Network Security Assessment
 * Database Security Assessment
 * Security Configuration Review
+
+## Tools Used
+* Wazuh
+* Wireshark 
+* Kioptrix 
+* Kali linux
+* Nmap
+
 ## Status
 
 🚧 In Progress
