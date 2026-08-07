@@ -1,11 +1,9 @@
-# Threat Analysis Case Study
+# Legacy-System-Security-Assessment 
 
 ## Overview: 
-* This project presents a simulated cybersecurity breach and demonstrates the fundamentals of threat analysis within an organizational environment. It explains how to identify potential threats, assess their impact, prioritize response efforts, and recommend appropriate mitigation strategies.
-
-* I undertook this project because I have seen many organizations suffer significant financial and operational losses following cyberattacks. In many cases, the damage is worsened by a lack of understanding of the threats involved and how to respond effectively.
-
-* Through this repository, readers will gain an introduction to identifying common organizational threats, understanding their possible causes and effects, implementing appropriate mitigation and response strategies, and supporting recovery after a cybersecurity incident.
+* This project presents a cybersecurity assessment of two legacy systems—Kioptrix and Metasploitable 2—operating within the simulated environment of Apex Healthcare Solutions. The assessment focused on identifying existing vulnerabilities, evaluating the business risks associated with those vulnerabilities, and recommending technical security controls and Governance, Risk, and Compliance (GRC) policies to strengthen the organization's overall cybersecurity posture.
+* Using industry-standard vulnerability assessment techniques, the project examined outdated software, insecure communication protocols, weak authentication mechanisms, and database security weaknesses that could expose critical healthcare services and sensitive patient information to cyber threats. The findings were prioritized based on their potential business impact and likelihood of exploitation. 
+* Through this repository, readers will gain insight into the vulnerability assessment process, cybersecurity risk analysis, security control recommendations, and the role of Governance, Risk, and Compliance (GRC) in protecting organizational assets and supporting regulatory compliance. 
 
 ## Objectives: 
 - Identify the threats 
