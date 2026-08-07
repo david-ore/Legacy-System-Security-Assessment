@@ -51,6 +51,35 @@
 * Kali linux
 * Nmap
 
-## Status
+## Recommended Security Controls
+* Implement a structured patch management program.
+* Replace Telnet and FTP with SSH and SFTP.
+* Enforce MFA and strong password policies.
+* Harden servers and database configurations.
+* Conduct regular vulnerability assessments.
+* Deploy continuous security monitoring (SIEM).
+* Enforce the Principle of Least Privilege (PoLP).
 
-🚧 In Progress
+##Recommended GRC Policy
+* Access Control Policy
+* Password Policy
+* Patch Management Policy
+* Vulnerability Management Policy
+* Acceptable Use Policy
+
+## Lesson Learned 
+* The importance of proactive vulnerability management.
+* How legacy systems increase organizational risk.
+* The relationship between technical controls and business impact.
+* Why GRC policies are essential for long-term security.
+* The value of prioritizing remediation based on risk.
+
+## Future Improvements
+* Perform authenticated vulnerability scans regularly.
+* Conduct penetration testing to validate findings.
+* Integrate SIEM for continuous monitoring.
+* Automate vulnerability management.
+* Map controls to healthcare compliance frameworks.
+
+## Status
+Completed
