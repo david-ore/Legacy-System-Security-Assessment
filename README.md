@@ -13,8 +13,24 @@
 - Document analysis and give report on engagement with the threat(s)
 
 ## Scenario
-* Apex Healthcare Solutions initiated a security investigation after its IT team observed unusual network activity, repeated failed login attempts, and intermittent service disruptions across its legacy systems. Although no security breach had been confirmed, management recognized that the organization's outdated infrastructure could expose sensitive patient information and disrupt critical healthcare services if left unaddressed.
-- As part of the investigation, a comprehensive vulnerability assessment was conducted on the Kioptrix and Metasploitable 2 systems. Follow-up system checks were performed to identify vulnerabilities, evaluate their potential business impact, and recommend appropriate technical and administrative controls, supported by GRC policies, to strengthen the organization's overall cybersecurity posture
+* Apex Healthcare Solutions initiated a proactive cybersecurity assessment of its legacy Kioptrix and Metasploitable 2 systems to evaluate their security posture. Management recognized that outdated software, insecure services, and weak authentication mechanisms could expose sensitive patient information and critical healthcare operations to cyber threats. The assessment aimed to identify existing vulnerabilities, evaluate their associated business risks, and recommend technical controls and Governance, Risk, and Compliance (GRC) policies to improve organizational resilience and regulatory compliance.
+
+## Key Findings 
+# Six significant vulnerabilities were identified across the Kioptrix and Metasploitable 2 systems.
+* Outdated services such as Apache, Samba, FTP, Telnet, and MySQL introduced critical security risks.
+* Weak authentication mechanisms increased the likelihood of unauthorized access and privilege escalation.
+* The overall security posture of the environment was assessed as High Risk.
+* Existing technical and governance controls required improvement to reduce organizational exposure.
+* Implementing patch management, MFA, secure protocols, and GRC policies would significantly strengthen security.
+
+## Risk Assessment 
+# Vulnerability = Risk
+* Outdated Samba = High
+* Outdated Apache = High
+* Weak SSH Authentication = High
+* Insecure FTP = High
+* Telnet Enabled = High
+* Outdated MySQL Configuration = High
 
 ## Skills Demonstrated
 * Vulnerability Assessment and identification
