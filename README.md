@@ -31,6 +31,7 @@
 * Insecure FTP = High
 * Telnet Enabled = High
 * Outdated MySQL Configuration = High
+* The combined impact of outdated software, insecure communication protocols, and weak authentication resulted in an overall High Risk security posture.
 
 ## Skills Demonstrated
 * Vulnerability Assessment and identification
