@@ -1,30 +1,30 @@
 # Legacy-System-Security-Assessment 
 
-## Overview: 
+# Overview: 
 * This project presents a cybersecurity assessment of two legacy systems—Kioptrix and Metasploitable 2—operating within the simulated environment of Apex Healthcare Solutions. The assessment focused on identifying existing vulnerabilities, evaluating the business risks associated with those vulnerabilities, and recommending technical security controls and Governance, Risk, and Compliance (GRC) policies to strengthen the organization's overall cybersecurity posture.
 * Using industry-standard vulnerability assessment techniques, the project examined outdated software, insecure communication protocols, weak authentication mechanisms, and database security weaknesses that could expose critical healthcare services and sensitive patient information to cyber threats. The findings were prioritized based on their potential business impact and likelihood of exploitation. 
 * Through this repository, readers will gain insight into the vulnerability assessment process, cybersecurity risk analysis, security control recommendations, and the role of Governance, Risk, and Compliance (GRC) in protecting organizational assets and supporting regulatory compliance. 
 
-## Objectives: 
+# Objectives: 
 - Identify the threats 
 - Analyze the threats and determine kind and patterns
 - Evaluate the threat and scale severity 
 - Recommend possible actions and show working environment 
 - Document analysis and give report on engagement with the threat(s)
 
-## Scenario
+# Scenario
 * Apex Healthcare Solutions initiated a proactive cybersecurity assessment of its legacy Kioptrix and Metasploitable 2 systems to evaluate their security posture. Management recognized that outdated software, insecure services, and weak authentication mechanisms could expose sensitive patient information and critical healthcare operations to cyber threats. The assessment aimed to identify existing vulnerabilities, evaluate their associated business risks, and recommend technical controls and Governance, Risk, and Compliance (GRC) policies to improve organizational resilience and regulatory compliance.
 
-## Key Findings 
-# Six significant vulnerabilities were identified across the Kioptrix and Metasploitable 2 systems.
+# Key Findings 
+## Six significant vulnerabilities were identified across the Kioptrix and Metasploitable 2 systems.
 * Outdated services such as Apache, Samba, FTP, Telnet, and MySQL introduced critical security risks.
 * Weak authentication mechanisms increased the likelihood of unauthorized access and privilege escalation.
 * The overall security posture of the environment was assessed as High Risk.
 * Existing technical and governance controls required improvement to reduce organizational exposure.
 * Implementing patch management, MFA, secure protocols, and GRC policies would significantly strengthen security.
 
-## Risk Assessment 
-# Vulnerability = Risk
+# Risk Assessment 
+## Vulnerability = Risk
 * Outdated Samba = High
 * Outdated Apache = High
 * Weak SSH Authentication = High
@@ -51,7 +51,7 @@
 * Kali linux
 * Nmap
 
-## Recommended Security Controls
+# Recommended Security Controls
 * Implement a structured patch management program.
 * Replace Telnet and FTP with SSH and SFTP.
 * Enforce MFA and strong password policies.
@@ -60,26 +60,26 @@
 * Deploy continuous security monitoring (SIEM).
 * Enforce the Principle of Least Privilege (PoLP).
 
-##Recommended GRC Policy
+## Recommended GRC Policy
 * Access Control Policy
 * Password Policy
 * Patch Management Policy
 * Vulnerability Management Policy
 * Acceptable Use Policy
 
-## Lesson Learned 
+# Lesson Learned 
 * The importance of proactive vulnerability management.
 * How legacy systems increase organizational risk.
 * The relationship between technical controls and business impact.
 * Why GRC policies are essential for long-term security.
 * The value of prioritizing remediation based on risk.
 
-## Future Improvements
+# Future Improvements
 * Perform authenticated vulnerability scans regularly.
 * Conduct penetration testing to validate findings.
 * Integrate SIEM for continuous monitoring.
 * Automate vulnerability management.
 * Map controls to healthcare compliance frameworks.
 
-## Status
+# Status
 Completed
